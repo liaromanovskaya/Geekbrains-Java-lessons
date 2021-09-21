@@ -3,7 +3,7 @@ package lesson2;
 public class HomeWorkLesson2 {
     public static void main(String[] args) {
         taskOneResult();
-        taskTwo(10);
+        taskTwo(9);
         taskThreeResult();
         taskFour("И снова здравствуйте!", 5);
 
