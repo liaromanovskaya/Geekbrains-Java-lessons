@@ -22,6 +22,7 @@ public class HomeWorkApp {
         }
     }
 
+
     private static void printColor() {
         int value = -1;
         if (value <= 0) {
