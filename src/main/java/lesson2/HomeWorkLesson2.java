@@ -43,9 +43,11 @@ public class HomeWorkLesson2 {
         return true;
     }
 
-    private static void taskFour(String  args, int a) {
-        for (int i = 0; i < a ; i++) {
+    private static void taskFour(String args, int a) {
+        for (int i = 0; i < a; i++) {
             System.out.println(args);
         }
     }
 }
+
+
